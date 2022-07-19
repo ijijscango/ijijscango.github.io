@@ -6,7 +6,7 @@
 
 It is going to offer you the most advanced and the best printing service. These printers are very efficient in performing their job. The first thing that is required to do is when you purchase a new printer or want to set up the printer again, then you need to download the printer drivers from the ij.start.cànon setup.
 
- The  ij.start.cànon setup is the best solution for various functions. This is very simple to learn. Let us have a look at the steps below.</p>
+ The  <a href="https://ijijscango.github.io/">ij.start.cànon</a> setup is the best solution for various functions. This is very simple to learn. Let us have a look at the steps below.</p>
  
  
  
@@ -19,7 +19,7 @@ It is going to offer you the most advanced and the best printing service. These 
 <li>After that, open the browser. Now you need to enter www.cànon.com/ijsetup in the search bar. </li>
 <li>Then, you are going to see the official portal. </li>
 <li>After that, you need to click on the gear icon and then wait for the system response. Then you need to enter the model number. </li>
-<li>After that you hit enter, then the  ij.start.cànon setup files are going to start downloading.</li> 
+ <li>After that you hit enter, then the  <a href="https://ijijscango.github.io/">ij.start.cànon</a> setup files are going to start downloading.</li> 
 
 </ul>
 
@@ -41,7 +41,7 @@ It is going to offer you the most advanced and the best printing service. These 
   
   <ul>
   
-<li>Make sure to open the web browser on your device and then go to the web link of ij.start.cànon.  </li>
+<li>Make sure to open the web browser on your device and then go to the web link of <a href="https://ijijscango.github.io/">ij.start.cànon</a>.  </li>
 <li>After that choose the connection type as the USB. </li>
 <li>After that connect the printer with the device using the plug-in, the USB cable, and then press next. </li> 
 <li>Then, you need to click on the option add printer button.  </li>
@@ -71,7 +71,7 @@ It is going to offer you the most advanced and the best printing service. These 
 
 </ul>
 
-  <p>This is the whole process of  <b>ij.start.cànon</b> setup. If you are having any issues, then our experts are going to help you out. </p>
+  <p>This is the whole process of  <b><a href="https://ijijscango.github.io/">ij.start.cànon</a></b> setup. If you are having any issues, then our experts are going to help you out. </p>
 
 
 
