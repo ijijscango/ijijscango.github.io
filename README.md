@@ -56,8 +56,9 @@ It is going to offer you the most advanced and the best printing service. These 
   <b>The procedure of the printout using the cànon printer:</b>
   <p>Let us now start with the further procedure in installing the printer. Well, that is to take the printout through the  ij.start.cànon. Take the printout that includes unboxing the product as well as sorting many components, downloading the important drivers, installing them, loading the printing papers, and the actual printout procedure. </p>
   
-  <h3>Loading the printing papers in the ij.start.cànon</h4>
+  <h3>Loading the printing papers in the ij.start.cànon</h3>
   <p>There are some mistakes that are going to take place such as misplacing the paper. These are the mistakes that will lead to the displacement of the print from the desired place. Making sure that you are avoiding the type of mistakes for proper loading of the paper is very important.</p>
+  
   <ul>
   
 <li>Also, open the front paper tray cover from the printer and then see all the marks available on the printer tray. After that slightly pull the paper supporter towards the side.</li>
@@ -67,6 +68,8 @@ It is going to offer you the most advanced and the best printing service. These 
 <li>After that see both the edges of the paper and then adjust the side adjuster according to the size of the paper. </li>
 <li>Make sure to not push it thoroughly as it is going to bend the sides of the paper and there is going to be a dome in between. </li>
 <li>This is going to finish the loading of the tray. After that go for the print as it has been explained in the steps given below.</li> 
+
+</ul>
 
   <p>This is the whole process of  <b>ij.start.cànon</b> setup. If you are having any issues, then our experts are going to help you out. </p>
 
