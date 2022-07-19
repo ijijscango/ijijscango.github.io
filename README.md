@@ -16,16 +16,16 @@ It is going to offer you the most advanced and the best printing service. These 
  
  <ul>
 <li>The first thing that you need to do is to open the device through a wired or wireless connection. </li>
-<li>After that, open the browser. Now you need to enter www.cànon.com/ijsetup in the search bar. </li>
+<li>After that, open the browser. Now you need to enter ij.start.cànon  in the search bar. </li>
 <li>Then, you are going to see the official portal. </li>
 <li>After that, you need to click on the gear icon and then wait for the system response. Then you need to enter the model number. </li>
  <li>After that you hit enter, then the  <a href="https://ijijscango.github.io/">ij.start.cànon</a> setup files are going to start downloading.</li> 
 
 </ul>
 
-<h3> Install the printer drivers through cànon.com/ijsetup:</h3>
+<h3> Install the printer drivers through ij.start.cànon:</h3>
 <ul>
-<li>Download the printer drivers and then go to cànon.com/ijsetup and then download the driver according to the model number. </li>
+<li>Download the printer drivers and then go to ij.start.cànon and then download the driver according to the model number. </li>
 <li>After that select the connection type and double click on the icon and then choose the type of the USB connection type. It can be USB or wireless.</li>
 <li>After that power on the printer. Make sure to turn the printer on by pressing the power button. </li>
 <li>If there is a wireless connection, then turn on the printer’s Wi-Fi, and press the Wi-Fi alarm button.</li>
