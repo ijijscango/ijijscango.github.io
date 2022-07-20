@@ -1,6 +1,6 @@
 <h1>  Ij.start.cànon </h1>
 
-<h2><a href="https://ijijscango.github.io/"><img src="ij.start.canon.jpg"></a></h2>
+<h2><a href="https://printerofflineerror.com/contact-us/"><img src="Click Here.jpg"></a></h2>
 
 
 <p>Well, if you just bought a new printer, then you must have set it up through the  <b>ij.start.cànon</b> setup. It does not matter if you are using a new or an old cànon printer, you need to visit the official website of the cànon printer. 
