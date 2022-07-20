@@ -1,25 +1,5 @@
 <h1>  Ij.start.cànon </h1>
 
-<button class="buttons" onclick="window.location.href = 'https://smart-tv-activation.com/';"> Click Here to Activate Smart TV
-<style type="text/css">.buttons {
-background-color: #7f5a83;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 22px;
-  margin: 4px 2px;
-  cursor: pointer;
-  -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
-}
-
-.buttons:hover {
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-</style>
-</button>
 <h2><a href="https://ijijscango.github.io/"><img src="ij.start.canon.jpg"></a></h2>
 
 
